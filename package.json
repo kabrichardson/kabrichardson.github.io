@@ -1,0 +1,19 @@
+{
+  "name": "kabrichardson.github.io",
+  "version": "1.0.0",
+  "description": "practice website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kabrichardson/kabrichardson.github.io.git"
+  },
+  "author": "Katy Richardson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kabrichardson/kabrichardson.github.io/issues"
+  },
+  "homepage": "https://github.com/kabrichardson/kabrichardson.github.io#readme"
+}
